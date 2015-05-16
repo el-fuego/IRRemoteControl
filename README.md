@@ -1,5 +1,5 @@
 <img src="http://www.vetco.net/catalog/images/VUPN6334-1.jpg" align="right" width="300" height="253" />
-# IR Remote Control for Arduino
+### IR Remote Control for Arduino
 
 Light remote control lib for Arduino with console linking
 
