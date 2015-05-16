@@ -1,6 +1,5 @@
-# IR Remote Control for Arduino
-
 <img src="http://www.vetco.net/catalog/images/VUPN6334-1.jpg" align="right" width="300" height="253" />
+# IR Remote Control for Arduino
 
 Light remote control lib for Arduino with console linking
 
@@ -33,6 +32,8 @@ void loop() {
   }
 }
 ```
+
+<img src="https://learn.adafruit.com/system/assets/assets/000/000/551/medium800/light_sonycodepulses.jpg" align="right" width="300" height="225" />
 
 #### Predefined console header
 Any command starts from console-specific header<br/>
