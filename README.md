@@ -4,6 +4,10 @@
 
 Light remote control lib for Arduino with console linking
 
+* Light-weight<br/>
+* Can determine signals from few consoles<br/>
+* Automatic console header hash detection<br/>
+
 #### Example
 ```cpp
 #include <IRRemoteControl.h>
